@@ -97,12 +97,12 @@ Apple Banana Orange
 
 Produces:
 
-|Label 1|  Label 2|  Label 3|
+| Label 1 |   Label 2 |   Label 3 | 
 ----
-|Product 1| Product 2| Product 3|
-|Red|      Blue|     Green|
-|1/3|      2/3|      3/3|
-|2025-01-14|2025-01-14|2025-01-14|
+| Product 1 |  Product 2 |  Product 3 | 
+| Red |       Blue |      Green | 
+| 1/3 |       2/3 |       3/3 | 
+| 2025-01-14 | 2025-01-14 | 2025-01-14 | 
 
 
 # Test
